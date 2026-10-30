@@ -1,5 +1,7 @@
- matplotlib
- pandas 
- requests
- seaborn 
- streamlit 
+streamlit
+requests
+pandas
+altair
+jsonschema
+matplotlib
+seaborn
